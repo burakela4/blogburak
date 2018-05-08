@@ -1,0 +1,86 @@
+@charset "utf-8";
+#container {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 16px;
+	height: auto;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#header {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 16px;
+	height: 225px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#logo {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 16px;
+	height: 175px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../gorseller/logo.png);
+}
+#menu {
+	height: 50px;
+	width: 1000px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 10px;
+	text-align: center;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 17px;
+	font-weight: bold;
+}
+#solhaberler {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 16px;
+	height: 500px;
+	width: 1000px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	color: #000000;
+	font-weight: bold;
+	background-image: url(../gorseller/Ba%C5%9Fl%C4%B1ks%C4%B1z-1.png);
+	border: thin solid #000;
+	overflow:auto;
+}
+#footer {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 17px;
+	font-weight: bold;
+	color: #000;
+	height: 70px;
+	width: 1000px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+#banner {
+	height: 200px;
+	width: 1000px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#sosyalmedya {
+	height: 65px;
+	width: 1000px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+
+.foto {
+	text-align: left;
+	float: left;
+}
